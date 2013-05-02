@@ -9,6 +9,10 @@ as an "all in one" dependency to bring in pallet crates.
 Add this project to you dependencies to bring in a dependency on all pallet
 crates.
 
+```clj
+[com.palletops/all-crates "0.8.0-alpha.1"]
+```
+
 To generate documentation, run the `lein-pallet-crate` plugin with:
 
     lein crates-pages

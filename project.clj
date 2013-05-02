@@ -1,4 +1,4 @@
-(defproject all-crates "0.8.0-SNAPSHOT"
+(defproject com.palletops/all-crates "0.8.0-alpha.1"
   :description "An all in one dependency for pallet crates."
   :url "https://github.com/all-crates"
   :license {:name "Eclipse Public License"
