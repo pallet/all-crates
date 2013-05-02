@@ -6,7 +6,7 @@
   :dependencies [[com.palletops/app-deploy-crate "0.8.0-alpha.1"]
                  [com.palletops/java-crate "0.8.0-beta.4"]
                  [com.palletops/lein-crate "0.8.0-alpha.1"]
-                 [com.palletops/git-crate "0.8.0-SNAPSHOT"]
+                 [com.palletops/git-crate "0.8.0-alpha.1"]
                  [com.palletops/riemann-crate "0.8.0-alpha.2"]
                  [com.palletops/upstart-crate "0.8.0-alpha.1"]
                  [com.palletops/runit-crate "0.8.0-alpha.1"]
